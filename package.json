@@ -1,0 +1,8 @@
+{
+  "name": "next-worker-import-repro",
+  "workspaces": [
+    "my-package",
+    "site"
+  ],
+  "packageManager": "yarn@3.1.1"
+}
